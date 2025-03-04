@@ -238,6 +238,7 @@
 			"entitlementsInherit": "build/entitlements.mac.plist",
 			"category": "public.app-category.productivity",
 			"darkModeSupport": true,
+			"sign": false,
 			"target": [
 				{
 					"target": "dmg",
